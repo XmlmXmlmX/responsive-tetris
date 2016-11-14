@@ -1,0 +1,34 @@
+{
+    "name": "tetris-on-a-plane",
+    "version": "1.0.0",
+    "description": "The responive Version of Tetris on a plane.",
+    "main": "Gruntfile.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/XmlmXmlmX/tetris-on-a-plane.git"
+    },
+    "keywords": [
+        "tetris",
+        "css",
+        "game"
+    ],
+    "author": "Sebastian Hösl",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/XmlmXmlmX/tetris-on-a-plane/issues"
+    },
+    "homepage": "https://github.com/XmlmXmlmX/tetris-on-a-plane",
+    "devDependencies": {
+        "autoprefixer": "^6.5.1",
+        "grunt": "^1.0.1",
+        "grunt-browser-sync": "^2.2.0",
+        "grunt-contrib-clean": "^1.0.0",
+        "grunt-contrib-copy": "^1.0.0",
+        "grunt-contrib-cssmin": "^1.0.2",
+        "grunt-contrib-watch": "^1.0.0",
+        "grunt-contrib-uglify": "*",
+        "grunt-postcss": "^0.8.0",
+        "grunt-sass": "^1.2.1",
+        "load-grunt-tasks": "^3.5.2"
+    }
+}

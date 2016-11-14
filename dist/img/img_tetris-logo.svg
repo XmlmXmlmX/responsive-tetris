@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1000" height="655" viewBox="0 0 999.99999 654.99997" id="svg2" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="img_tetris-logo.svg">
+  <title id="title4268">Tetris Logo</title>
+  <defs id="defs4">
+    <linearGradient inkscape:collect="always" id="linearGradient4260">
+      <stop style="stop-color:#ef3f55;stop-opacity:1;" offset="0" id="stop4262" />
+      <stop style="stop-color:#ffd703;stop-opacity:1" offset="1" id="stop4264" />
+    </linearGradient>
+    <linearGradient inkscape:collect="always" id="linearGradient4210">
+      <stop style="stop-color:#38498d;stop-opacity:1" offset="0" id="stop4212" />
+      <stop style="stop-color:#6acef4;stop-opacity:1" offset="1" id="stop4214" />
+    </linearGradient>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4210" id="linearGradient4202" x1="235.7603" y1="355.97733" x2="235.7603" y2="994.96741" gradientUnits="userSpaceOnUse" gradientTransform="translate(56.395227,-107.49458)" />
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4260" id="linearGradient4266" x1="-74.285713" y1="268.07651" x2="-74.285713" y2="540.93359" gradientUnits="userSpaceOnUse" />
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4260" id="linearGradient4276" x1="629.09412" y1="273.10989" x2="629.09412" y2="530.70422" gradientUnits="userSpaceOnUse" />
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4260" id="linearGradient4278" x1="365.62265" y1="276.35449" x2="365.62265" y2="534.28607" gradientUnits="userSpaceOnUse" />
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4260" id="linearGradient4280" x1="248.95421" y1="268.07651" x2="248.95421" y2="533.30542" gradientUnits="userSpaceOnUse" />
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4260" id="linearGradient4282" x1="81.543045" y1="269.50504" x2="81.543045" y2="536.2207" gradientUnits="userSpaceOnUse" />
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4260" id="linearGradient4292" x1="552.09906" y1="267.16888" x2="552.09906" y2="536.93195" gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.49497475" inkscape:cx="544.82576" inkscape:cy="452.25719" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="1536" inkscape:window-height="811" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" units="px" />
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Tetris Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Ebene 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-397.36241)">
+    <g id="tetris" transform="matrix(0.9860428,0,0,0.9860428,174.04831,167.96304)">
+      <title id="title4328">Tetris</title>
+      <path inkscape:connector-curvature="0" id="path4156" d="m -172.46192,237.15334 942.85714,2.85714 1.42857,328.57143 -305.71428,-1.42857 0,325.71428 -332.85715,0 0,-324.28571 -304.28571,1.42857 z" style="fill:url(#linearGradient4202);fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:8.10000038;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path id="path3347" d="m 834.9289,277.7551 a 24.393196,24.393196 0 0 1 -24.39319,24.39319 24.393196,24.393196 0 0 1 -24.3932,-24.39319 24.393196,24.393196 0 0 1 24.3932,-24.3932 24.393196,24.393196 0 0 1 24.39319,24.3932 z" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ef4035;stroke-width:5.4278903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:connector-curvature="0" />
+      <g id="text4149" style="font-style:normal;font-weight:normal;font-size:44.18336105px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:0.51690823;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" transform="matrix(1.104584,0,0,0.9053182,-2,0)">
+        <path sodipodi:nodetypes="cccccccczccccccccc" inkscape:connector-curvature="0" id="path4154" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:Arial;-inkscape-font-specification:'Arial Bold Condensed';fill:#ef4035;fill-opacity:1" d="m 725.13613,322.54412 -0.24246,-31.33147 c 0,0 11.24103,-1.39344 15.77166,0.17259 3.10805,1.58421 4.15265,3.01665 4.78884,8.27821 0.10156,3.39836 0.01,4.53675 -4.09063,7.83749 2.17265,0.90406 3.34885,5.11919 3.34885,5.11919 0.67718,2.45408 0.62015,6.05866 2.18779,9.92399 l -7.68984,-0.0986 c 0,0 -0.28637,-4.64556 -1.45287,-8.26281 -1.1665,-3.61725 -3.78215,-3.19451 -6.91542,-3.36246 l 0.0808,11.52663 z m 5.86755,-17.46254 4.77245,-0.19724 c 0,0 2.19529,-0.65586 2.34456,-4.09904 -0.0605,-3.2693 -1.23967,-3.13747 -1.23967,-3.13747 l -5.71568,-0.29587 z" />
+      </g>
+      <path inkscape:connector-curvature="0" id="path_T" d="m -155.71429,255.21935 158.5714329,0 0,60 -48.5714289,0 0,238.57143 -60.000004,0 0,-235.71429 -48.57142,0 z" style="fill:url(#linearGradient4266);fill-opacity:1;fill-rule:evenodd;stroke:#7ac142;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <title id="title4294">T</title>
+      </path>
+      <path inkscape:connector-curvature="0" id="path_E" d="m 15,258.07649 0,294.28571 191.42857,0 -32.14286,-59.28571 -99.999996,0 0,-100.71429 34.285716,0 25.71428,-46.42857 -59.28571,0 0,-30.71428 53.57143,0 33.57143,-58.57143 z" style="fill:url(#linearGradient4282);fill-opacity:1;fill-rule:evenodd;stroke:#7ac142;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <title id="title4296">E</title>
+      </path>
+      <path inkscape:connector-curvature="0" id="path_T2" d="m 170.71429,255.93363 0,59.28572 47.14285,0 0,235.71428 62.85715,0 0,-233.57143 48.57142,0 0,-62.85714 z" style="fill:url(#linearGradient4280);fill-opacity:1;fill-rule:evenodd;stroke:#7ac142;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <title id="title4298">T2</title>
+      </path>
+      <path inkscape:connector-curvature="0" id="path_R" d="m 340.71429,256.64792 0,292.85714 59.28571,0 c 0,0 -3.51076,-254.51213 0,-253.57143 3.51076,0.94071 36.42857,0 36.42857,0 l -31.80356,55.08539 103.94642,201.34318 72.14286,0 -102.85715,-204.28571 -30.71428,0 52.98259,-91.76854 c 0,0 -163.69688,-0.37432 -159.41116,0.33997 z" style="fill:url(#linearGradient4278);fill-opacity:1;fill-rule:evenodd;stroke:#7ac142;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <title id="title4300">R</title>
+      </path>
+      <path d="m 533.36054,327.07268 0,109.09647 60.60916,116.16754 0,-225.76909 z m -0.5034,-73.2819 0,61.42857 61.42857,0 0,-60.71429 z" style="fill:url(#linearGradient4292);fill-opacity:1;fill-rule:evenodd;stroke:#7ac142;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path_I" inkscape:connector-curvature="0">
+        <title id="title4303">I</title>
+      </path>
+      <path inkscape:connector-curvature="0" id="path_Z" d="m 604.07122,255.85692 0,59.599 89.90358,176.27162 -74.75129,0 -15.15229,-9.59645 0,67.17515 0.50508,3.53553 148.9975,0 0,-76.26652 -84.85281,-169.70562 4.54568,-6.06092 48.9924,0 8.08122,10.6066 23.23351,-57.07362 z" style="fill:url(#linearGradient4276);fill-opacity:1;fill-rule:evenodd;stroke:#7ac142;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <title id="title4305">Z</title>
+      </path>
+    </g>
+  </g>
+</svg>

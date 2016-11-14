@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Tetris</title>
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/tetris.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Share+Tech+Mono" rel="stylesheet">
+    <script src="js/tetris.min.js"></script>
+    <script type="text/javascript">
+        var started = false;
+
+        function start() {
+            if (!started) {
+                started = true;
+                document.body.className = '';
+                tetris_run(document.body);
+            }
+        }
+    </script>
+</head>
+
+<body onclick="start()" onkeypress="start()" class="loading">
+</body>
+
+</html>

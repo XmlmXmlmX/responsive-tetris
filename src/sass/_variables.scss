@@ -1,0 +1,15 @@
+$block-columns: 10;
+$block-rows: 20;
+$blocks: $block-columns * $block-rows;
+// Sizes
+$height: calc(100vw / #{$block-rows});
+$left-pane-width: 300px;
+$right-pane-width: calc(100vw - #{$left-pane-width});
+// Colors
+$left-pane-bg-color: #E8F9D5;
+$right-pane-bg-color: #0A2D3C;
+$tetromino-bg-color: #0A2D3C;
+// Colors
+$board-bg-color: #E8F9D5;
+$aside-bg-color: #0A2D3C;
+$loading-bg-color: #ecf0f1;
